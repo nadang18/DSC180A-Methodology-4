@@ -1,6 +1,6 @@
-**Name:** Nathan Dang  
-**Email:** nadang@ucsd.edu  
-**Section:** B19
+**Name:** Nathan Dang<br>
+**Email:** nadang@ucsd.edu<br>
+**Section:** B19<br>
 **Mentor:** SDG&E: Phi Nguyen, Chuck Hahms, Fatemeh Aarabi
 
 ---
